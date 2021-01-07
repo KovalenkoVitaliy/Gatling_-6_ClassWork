@@ -1,0 +1,97 @@
+Action.c(41): Chislo name TSK6 in Get_Answer: 16
+Action.c(63): Chislo name TSK6 on Page: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 10
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 1
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 9
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 5
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 6
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 1
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 2
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 2
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 16
+Action.c(209): Chislo name TSK6 on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 15
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 10
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 9
+Action.c(151): random Ordinal for DELETE : 8
+Action.c(174): Count in Get_Answer on current Iteration: 14
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 9
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 8
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 13
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 8
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 7
+Action.c(151): random Ordinal for DELETE : 7
+Action.c(174): Count in Get_Answer on current Iteration: 12
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 7
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 6
+Action.c(151): random Ordinal for DELETE : 1
+Action.c(174): Count in Get_Answer on current Iteration: 11
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 6
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 5
+Action.c(151): random Ordinal for DELETE : 1
+Action.c(174): Count in Get_Answer on current Iteration: 10
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 5
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 4
+Action.c(151): random Ordinal for DELETE : 1
+Action.c(174): Count in Get_Answer on current Iteration: 9
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 4
+Action.c(140): In Get Answer more than two computer with name -TSK6-, deleting extra computers in any order
+Action.c(143): Number TSK6 on current page before DELETE: 3
+Action.c(151): random Ordinal for DELETE : 3
+Action.c(174): Count in Get_Answer on current Iteration: 8
+Action.c(201): Chislo name TSK6 on Page on current Iteration: 3
+Action.c(240): Chislo name IBM on Page from Get Answer: 0
+Action.c(363): In Get Answer no one computer with Company -IBM-
+Action.c(382): Random entering Ordinal is: 1
+Action.c(383): Entering ID of computer is: 710
+Vuser Terminated.

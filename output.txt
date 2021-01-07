@@ -1,0 +1,8 @@
+Action.c(41): Chislo name TSK6 in Get_Answer: 7
+Action.c(55): Chislo name TSK6 on Page: 2
+Action.c(240): Chislo name IBM on Page from Get Answer: 1
+Action.c(244): In Get Answer one computer with Name_Company -IBM-
+Action.c(249): Iteration of Cycle: 1
+Action.c(289): Value of Company in GET Answer (required value company IBM is --13--): 13
+Action.c(310): Entering ID of computer is: 710
+Vuser Terminated.

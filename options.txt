@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Admin\Desktop\Task_6_28.03(Kovalenko V)
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\task_6_28.03(kovalenko v)\\logfile.log
+c:\users\admin\desktop\task_6_28.03(kovalenko v)\\combined_Task_6_28.03(Kovalenko V).c
+c:\users\admin\desktop\task_6_28.03(kovalenko v)\\pre_cci.c
